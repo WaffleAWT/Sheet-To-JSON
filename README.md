@@ -6,13 +6,21 @@ User guide:-
 
 To download:
 -Press Code -> Download ZIP
+
 -Extract your file
 
 To use:
+-Make sure you have [Python](https://www.python.org/downloads/) installed
+
 -Locate the dist directory
+
 -Open the executable inside "sheet_to_json.exe"
+
 -Locate your sheet in the first tab
+
 -provide a name and path for the JSON output
+
+-Press "Convert to JSON"
 
 Wala :)
 
