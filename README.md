@@ -18,8 +18,11 @@ Wala :)
 
 Libraries used:
 [tkinter](https://docs.python.org/3/library/tkinter.html)
+
 [filedialog](https://docs.python.org/3/library/dialog.html)
+
 [json](https://docs.python.org/3/library/json.html)
+
 [ezodf](https://github.com/T0ha/ezodf) by: [T0ha](https://github.com/T0ha)
 
 -WaffleAWT
