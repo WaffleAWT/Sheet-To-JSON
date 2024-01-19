@@ -2,14 +2,15 @@ A simple tool I made in Python to convert ODS/ODF sheet files into JSON mainly m
 
 I use it with ODS/ODF files that are made in [Libre Office](https://www.libreoffice.org), it's an amazing open source Microsoft office alternative.
 
-User guide:-
+**User guide:-**
 
-To download:
+**To download:**
+
 -Press Code -> Download ZIP
 
 -Extract your file
 
-To use:
+**To use:**
 -Make sure you have [Python](https://www.python.org/downloads/) installed
 
 -Locate the dist directory
@@ -34,4 +35,4 @@ Libraries used:
 
 [ezodf](https://github.com/T0ha/ezodf) by: [T0ha](https://github.com/T0ha)
 
--WaffleAWT
+**-WaffleAWT**
