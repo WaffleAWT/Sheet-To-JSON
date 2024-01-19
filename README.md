@@ -11,6 +11,7 @@ I use it with ODS/ODF files that are made in [Libre Office](https://www.libreoff
 -Extract your file
 
 **To use:**
+
 -Make sure you have [Python](https://www.python.org/downloads/) installed
 
 -Locate the dist directory
